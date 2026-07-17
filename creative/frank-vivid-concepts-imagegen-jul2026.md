@@ -7,23 +7,43 @@ driver), **#16 gets three** (best CTR), **#20 gets two**, **#8 gets one**.
 Each concept includes a copy-paste prompt for the image generator, written
 for 1080×1080 Facebook-compliant, brand-safe output.
 
-> **NOTE — Frank profile is (assumed).** The actual Frank profile did not
-> arrive with the request, so the avatar below is reconstructed from the
-> validated pain-point copy and the channel's known audience. Every detail is
-> provisional; send the real profile and any concept can be re-tuned.
+> **NOTE — updated against the real Frank profile ("the awakened patient"),
+> received Jul 17.** The original assumed avatar was directionally right
+> (responsible, "good patient," data-willing, caught-late betrayal — all
+> confirmed) and has been replaced with the researched profile below. Copy
+> tuned where the profile sharpened the language.
 
-## Frank (assumed)
+## Frank — the awakened patient (from the researched profile)
 
-- Male, 58, married ~30 years, kids grown or in college.
-- Engineer / manager / small-business owner — data-comfortable, tracks his
-  401(k) weekly, trusts numbers over reassurance.
-- On a statin; annual physicals that end with "looks good, see you next
-  year" — which he no longer finds comforting.
-- Lost his father (heart attack, early 60s) and more recently a friend or
-  colleague who "seemed fine."
-- Watches health YouTube late at night; hasn't told his wife how much he
-  worries. On Facebook daily.
-- Deepest fear: the sudden exit — missing the retirement he saved for.
+- Midlife to early-older age, approaching retirement; the age when
+  cardiovascular risk turns emotionally real (average first heart attack:
+  65.6 for U.S. males).
+- Identity: **responsible, not sick.** Did the socially approved things —
+  annual physicals, some version of healthy eating, exercise, supplements,
+  weight management. The old identity breaks on a revealing event: a bad
+  CAC score, a surprise lipid marker, a prediabetes diagnosis, a family
+  member's heart attack.
+- Market voice, verbatim: "I thought I was healthy." / "I'm learning I'm
+  not." / "I had to PUSH for both." / "nobody looked." / "my GP missed my
+  pre-diabetes." / "I'm not waiting for my doctor to figure it out." / a CAC
+  score that "mentally destroyed me" — "the face of my killer."
+- Institution-skeptical but not anti-medicine: still values doctors, no
+  longer assumes the first doctor/panel/recommendation is enough. Anti-
+  bureaucratic more than ideological. Wants agency, not recklessness.
+- Pays out of pocket for clarity (ApoB, Lp(a), CAC scans, CGMs, premium
+  panels). Already understands "judgment, not volume."
+- Deepest hope: **staying intact** — capacity, independence, mobility,
+  cognition, presence for family — without handing the second half of life
+  to cardiology offices and fear.
+- Central emotional failure: caught late despite doing the right things.
+  Second failure: dependence — being handed a statin and sent home without
+  mechanism or plan.
+- Big idea that wins: *"You were managing your health using the wrong
+  map."* Preserves dignity, explains why disciplined people got blindsided.
+- Adjacent subsegments: recently-scared-straight; family-history striver;
+  skeptical second-opinion seeker; self-tracking optimizer; **spouse/adult
+  child researching for someone else** (nearly half of health searches are
+  for someone else — currently unserved by our pain points; see notes).
 
 ## Rules baked into every prompt
 
@@ -68,7 +88,9 @@ response editorial poster style.
 
 ### 2. "HE WAS 61." — Bold Typography
 
-The number does the work: Frank is 58, and 61 is three years away. Third
+The number does the work: Frank is approaching retirement and 61 is close
+enough to touch — and meaningfully *below* the average U.S. male first heart
+attack age of 65.6, which is exactly why "nobody saw it coming" lands. Third
 person about the deceased, first-person narrative — structurally compliant.
 
 **On-image text:** `HE WAS 61.` / `True or False? — I've had someone close
@@ -229,11 +251,14 @@ written and easily readable on mobile.
 ### 8. "The Checklist" — Ugly / object betrayal
 
 Frank's diligence, itemized in his own handwriting — and the question that
-diligence couldn't answer, in red pen.
+diligence couldn't answer, in red pen. Checklist items updated to the
+profile's own list of "socially approved things" (annual physicals, healthy
+eating, exercise, weight management); the word "statin" was removed from the
+image — a prescription-drug word in ad text is an avoidable review trigger.
 
-**On-image text:** `statin ✓  ·  morning walks ✓  ·  oatmeal ✓  ·  annual
-physical ✓` / red pen: `so why did I still find out something was wrong?`
-/ small: `True or False?`
+**On-image text:** `annual physical ✓  ·  exercise ✓  ·  healthy eating ✓
+·  watched my weight ✓` / red pen: `so why did I still find out something
+was wrong?` / small: `True or False?`
 
 **COPY-PASTE PROMPT:**
 ```
@@ -241,9 +266,9 @@ Create a 1080x1080 pixel square social media ad image. Style: overhead
 photo of a slightly crooked piece of ruled notebook paper on a plain wood
 desk, natural window light, casual snapshot realism. On the paper, in
 neat black ballpoint handwriting, a vertical checklist with hand-drawn
-checkboxes, every box ticked, rendered exactly line by line: "statin"
-checked, "morning walks" checked, "oatmeal" checked, "annual physical"
-checked. Below the list, in different red pen handwriting, slightly
+checkboxes, every box ticked, rendered exactly line by line: "annual
+physical" checked, "exercise" checked, "healthy eating" checked, "watched
+my weight" checked. Below the list, in different red pen handwriting, slightly
 larger and more urgent, render exactly: "so why did I still find out
 something was wrong?" In the bottom corner of the image, in a small plain
 white sans-serif on a small dark tab, render exactly: "True or False?" No
@@ -324,6 +349,90 @@ high contrast, all text spelled exactly as written and legible on mobile.
 - **#8 (1 slot):** clicks fine but is the most rational driver; rational
   clicks tend to be cheaper to win and weaker to convert, so it gets one
   strong swing (the Dashboard) rather than volume.
+
+## Profile-unlocked alternates (11–12)
+
+Two concepts the real profile made possible — both built on verbatim market
+voice. The roster stays at ten; these are swap candidates. If either is
+promoted, swap it for **#4 The Voicemail** first (the production-fussiest of
+the #3 cluster) or **#10 The Dashboard** (the most rational driver).
+
+### 11. "NOBODY LOOKED." — Bold Typography (#20/#16 hybrid)
+
+Verbatim market language. It carries the whole betrayal in two words:
+diligence on Frank's side, incuriosity on the system's — and it implies
+restitution ("I want the time back") without claiming any outcome.
+
+**On-image text:** `NOBODY LOOKED.` / `True or False? — I did everything
+right, and nobody looked any deeper.` / `Watch the video`
+
+**COPY-PASTE PROMPT:**
+```
+Create a 1080x1080 pixel square social media ad image. Typography-only,
+no photos, no people, no icons. Background: flat off-black (#141414).
+Centered in the upper two-thirds, in a massive extra-bold sans-serif in
+white, render exactly: "NOBODY LOOKED." — with only the word "LOOKED."
+in amber (#E8A13D). Below, in a much smaller regular-weight sans-serif in
+soft warm gray (#CFC9BD), render exactly: "True or False? — I did
+everything right, and nobody looked any deeper." Bottom center, small,
+render exactly: "Watch the video". Wide margins, generous negative space,
+flat matte fills, no gradients, no imagery. All text spelled exactly as
+written, crisp and legible at mobile size. Stark editorial poster style.
+```
+
+### 12. "The Wrong Map" — Object metaphor (#16/#20)
+
+The profile's strongest big idea — "you were managing your health using the
+wrong map" — as a literal object. Preserves dignity: the map was wrong, not
+the driver.
+
+**On-image text:** `I was managing my health with the wrong map.` /
+`True or False?`
+
+**COPY-PASTE PROMPT:**
+```
+Create a 1080x1080 pixel square social media ad image. Photographic
+style: overhead flat-lay of an old, creased paper road map unfolded on a
+wooden kitchen table, warm morning light, documentary realism. A route is
+traced across the map in yellow highlighter, confidently drawn — but the
+highlighted route visibly stops in the middle of nowhere, far from any
+marked destination. Generic invented map with fictional town names kept
+tiny and unreadable; no real place names, no logos, no compass-brand
+marks, no medical imagery of any kind, no people or hands. Across the
+upper portion of the image, on a subtle dark semi-transparent band, in a
+clean bold sans-serif in white, render exactly: "I was managing my health
+with the wrong map." Lower right, smaller white text, render exactly:
+"True or False?" All text spelled exactly as written and easily readable
+on mobile.
+```
+
+## What the real profile changes strategically
+
+1. **The quarantined CAC block just got stronger.** The profile's most
+   charged verbatims — "mentally destroyed me," "the face of my killer,"
+   "carrying that number around" — all orbit the post-diagnosis-limbo
+   confession already quarantined by Prime Directive #4. The profile
+   confirms it is likely the highest-power block in the account. It stays
+   in its own campaign, but it should get its isolated test soon rather
+   than never.
+2. **Calm after the scare → landing pages, not ads.** The profile is clear
+   that this market needs urgency *plus* emotional containment ("a clear
+   answer about what to do next"). Our ad layer stays identification-only;
+   the containment job belongs to the landing page and video. Landing copy
+   for the #3 campaign especially should convert panic into process while
+   staying first person (Directive #2) and outcome-free (Directive #3).
+3. **Balanced tone is a targeting decision.** The profile warns that
+   anti-statin, supplement-hypey, or conspiratorial tones shrink the
+   audience to the biohacker fringe. Every concept here keeps the system
+   critique soft ("nobody looked," "wrong map") and never anti-doctor —
+   that's what keeps the broad "awakened patient" market in the funnel.
+4. **Unserved subsegment — the researching spouse/adult child.** Nearly
+   half of health searches are for someone else, and none of our twenty
+   tested pain points speaks in that voice. A future pain-point candidate,
+   first person, identification-only: *"I read about heart disease late at
+   night. Not for me — for him."* Needs its own test slot and careful
+   handling (it brushes against the quarantined private-symptoms block from
+   the other direction). Not built here; flagged for the next batch.
 
 ## Trafficking notes
 
